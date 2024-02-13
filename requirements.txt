@@ -1,0 +1,4 @@
+google-generativeai
+pillow
+streamlit
+deep_translator
